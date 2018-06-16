@@ -3,4 +3,4 @@
 It contains:
 - key_value_store chaincode to use Fabric as a database
 - governance chaincode for electronic voting
-- yande_translator to use an external service (Yandex) from Fabric and translate italina word to english
+- yandex_translator to use an external service (Yandex) from Fabric and translate italina word to english
